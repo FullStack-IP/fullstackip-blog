@@ -19,7 +19,7 @@ Firefly is a feature-rich static blog theme built on **Astro 6** with **Svelte 5
 | `pnpm format` | Biome format |
 | `pnpm new-post <filename>` | Scaffold a new blog post |
 
-Package manager is **pnpm** (enforced). Node.js >= 22 required.
+Package manager is **pnpm** (enforced). Node.js >= 22.23.4 required (Astro 7).
 
 ## Architecture
 
